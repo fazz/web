@@ -1,0 +1,18 @@
+<!-- Description -->
+<p>
+Silence is golden. Duct tape is silver.
+</p>
+
+<p>
+E-mail: fazz-ät-pobox-dot-com
+</p>
+
+<p>
+<a href="http://www.flickr.com/photos/fazz/">Flickr</a>
+</p>
+
+<script type="text/javascript" src="http://feeds.delicious.com/v2/js/fazz?title=N%C3%A4mm&icon=m&count=5&sort=date&tags"></script>
+
+<!-- Start Tumblr Tag Cloud -->
+<script type="text/javascript" src="http://tumblrtags.rivers.pro/jquery.js"></script><script type="text/javascript" src="http://tumblrtags.rivers.pro/widget.js?css=default&minsize=120&maxsize=280"></script>
+<!-- End Tumblr Tag Cloud -->
